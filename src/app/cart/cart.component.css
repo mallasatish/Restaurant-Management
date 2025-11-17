@@ -1,0 +1,7 @@
+div {
+    background-color: bisque;
+    height: 500px;
+    width: 200px;
+    float: right; /* aligns div to the right */
+    margin: 20px; /* optional spacing from edges */
+}

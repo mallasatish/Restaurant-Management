@@ -1,0 +1,7 @@
+.customerdiv{
+    background-color: rgb(234, 181, 116);
+    height: 550px;
+    width: 200px;
+    text-align: center;
+    margin-left: 2px; /* adds space from the left edge */
+}
